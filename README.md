@@ -1,2 +1,2 @@
 # datastreams
-Repository with PhD related data and software.
+Repository with PhD related artificial data streams.
